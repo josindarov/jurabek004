@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jurabek
 - 👀 I’m interested in find new challenges in my life
-- 🌱 I’m currently learning backend development using ASP.NET
+- 🌱 I’m currently learning backend development and design patterns
 - 📫 Here is my linkedin username https://www.linkedin.com/in/jurabeksindarov/
 
 <!---
